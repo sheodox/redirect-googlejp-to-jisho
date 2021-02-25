@@ -1,0 +1,19 @@
+{
+
+  "manifest_version": 2,
+  "name": "GoogleJP Redirect To Jisho",
+  "version": "0.1",
+
+  "description": "Redirects Google.co.jp searches to Jisho",
+  "homepage_url": "https://github.com/sheodox",
+
+  "permissions": [
+    "*://*.google.co.jp/*",
+    "*://google.co.jp/*",
+    "webRequest",
+    "webRequestBlocking"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
