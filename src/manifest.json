@@ -1,15 +1,15 @@
 {
 
   "manifest_version": 2,
-  "name": "GoogleJP Redirect To Jisho",
-  "version": "0.1",
+  "name": "Redirect GoogleJP To Jisho",
+  "version": "1.0",
 
-  "description": "Redirects Google.co.jp searches to Jisho",
-  "homepage_url": "https://github.com/sheodox",
+  "description": "Redirects Google.co.jp searches to Jisho.org to help with learning Japanese.",
+  "homepage_url": "https://github.com/sheodox/redirect-googlejp-to-jisho",
 
   "permissions": [
-    "*://*.google.co.jp/*",
-    "*://google.co.jp/*",
+    "*://*.google.co.jp/search*",
+    "*://google.co.jp/search*",
     "webRequest",
     "webRequestBlocking"
   ],

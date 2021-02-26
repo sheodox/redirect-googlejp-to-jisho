@@ -1,4 +1,4 @@
-# GJP Jisho Redirect
+# Redirect GoogleJP to Jisho
 
 This extension redirects Google.co.jp searches to Jisho.org searches to help learning Japanese with ebooks.
 
