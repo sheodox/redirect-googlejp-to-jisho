@@ -4,7 +4,7 @@
   "name": "Redirect GoogleJP To Jisho",
   "version": "1.0",
 
-  "description": "Redirects Google.co.jp searches to Jisho.org to help with learning Japanese.",
+  "description": "Redirects Google.co.jp searches to Jisho.org to help with learning Japanese from ebooks.",
   "homepage_url": "https://github.com/sheodox/redirect-googlejp-to-jisho",
 
   "permissions": [
